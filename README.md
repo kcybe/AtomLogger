@@ -14,7 +14,7 @@
 Make an executeable out of it with Nuitka.
 
 # Note
-<p>> The infected file will run everytime the target will try and play Roblox.</p>
+The infected file will run everytime the target will try and play Roblox.
 
 
 > Please use Atom Logger as an educational source only.
